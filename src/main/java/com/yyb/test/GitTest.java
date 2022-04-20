@@ -14,5 +14,8 @@ public class GitTest {
     @Test
     public void test1(){
         System.out.println("hello git");
+        System.out.println("hello git");
+        System.out.println("hello git");
+        System.out.println("hello git");
     }
 }
