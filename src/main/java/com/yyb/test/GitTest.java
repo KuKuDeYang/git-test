@@ -20,5 +20,6 @@ public class GitTest {
         System.out.println("hello for hot-fix");
         System.out.println("i am  master");
         System.out.println("i am  hot-fix");
+        System.out.println("push commit");
     }
 }
